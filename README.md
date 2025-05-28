@@ -30,7 +30,7 @@ A sleek and responsive weather application built with React that provides real-t
    git clone https://github.com/ChauhanSurajSingh/react-weather-app.git
 
 2. Navigate to the project directory
-  - cd react-weather-app
+   - cd react-weather-app
 
 3. Install dependencies:
    - npm install
