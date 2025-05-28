@@ -42,5 +42,4 @@ A sleek and responsive weather application built with React that provides real-t
 6. Start the development server
    npm run dev
 
-🤝 Contributing
-   Contributions are welcome! If you’d like to improve the app, fix bugs, or add features:
+🤝 Contributions are welcome! If you’d like to improve the app, fix bugs, or add features:
