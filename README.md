@@ -30,16 +30,17 @@ A sleek and responsive weather application built with React that provides real-t
    git clone https://github.com/ChauhanSurajSingh/react-weather-app.git
 
 2. Navigate to the project directory
-   cd react-weather-app
+  - cd react-weather-app
 
 3. Install dependencies:
-   npm install
+   - npm install
 
 4. Get a free API key from OpenWeatherMap or your preferred weather API.
 
 5. Create a .env file in the root directory and add your API key:
 
 6. Start the development server
-   npm run dev
+   - npm run dev
 
-🤝 Contributions are welcome! If you’d like to improve the app, fix bugs, or add features:
+🤝 Contributing 
+   - Contributions are welcome! If you’d like to improve the app, fix bugs, or add features:
