@@ -43,4 +43,4 @@ A sleek and responsive weather application built with React that provides real-t
    npm run dev
 
 🤝 Contributing
-   Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
+   Contributions are welcome! If you’d like to improve the app, fix bugs, or add features:
