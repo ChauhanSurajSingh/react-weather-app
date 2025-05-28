@@ -1,13 +1,46 @@
-# React + Vite
+# React Weather App ☀️🌧️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive weather application built with React that provides real-time weather updates and forecasts for any city in the world. This app integrates with a weather API to fetch accurate data and displays it with an intuitive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🔍 Search weather by city name
+- 🌡️ Current temperature and weather conditions
+- 🌍 Displays additional info like humidity, wind speed, sunrise & sunset times
+- ⚡ Responsive design for mobile and desktop
+- 🚀 Fast and lightweight with React and Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-weather-app
+---
+
+## Tech Stack
+
+- React - Frontend UI library  
+- Vite - Build tool and dev server  
+- CSS - Utility-first CSS for styling  
+- OpenWeatherMap API - For fetching weather data  
+
+---
+
+## Installation
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/ChauhanSurajSingh/react-weather-app.git
+
+2. Navigate to the project directory
+   cd react-weather-app
+
+3. Install dependencies:
+   npm install
+
+4. Get a free API key from OpenWeatherMap or your preferred weather API.
+
+5. Create a .env file in the root directory and add your API key:
+
+6. Start the development server
+   npm run dev
+
+🤝 Contributing
+   Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
